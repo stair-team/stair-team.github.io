@@ -45,7 +45,7 @@ email: "yuyao.ge.work@gmail.com"
 user_groups:
   - Students
 ---
-Hi👋, I am a Ph.D. candidate at [Institute of Computing Technology(ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences(CAS)](http://www.cas.ac.cn/), advised by [Prof. Shenghua Liu](https://shenghua-liu.github.io/) and [Yiwei Wang](https://wangywust.github.io/). I work on Large Language Model Reasoning and Solve Graph Tasks with Large Language Models. 
+Hi👋, I am a Ph.D. candidate at [Institute of Computing Technology(ICT)](http://www.ict.ac.cn/), [Chinese Academy of Sciences(CAS)](http://www.cas.ac.cn/), advised by [Prof. Shenghua Liu](https://shenghua-liu.github.io/) and [Yiwei Wang](https://wangywust.github.io/).I work on Large Language Model (LLMs) Reasoning, especially in Vision-Language Models (VLM) Reasoning and Solve complex logic problems with LLMs.
 
 ***
 
