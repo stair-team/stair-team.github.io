@@ -7,7 +7,6 @@ authors:
 - Yiwei Wang
 - Pengliang Ji
 - Xueqi Cheng
-date: '2024-01-01'
 publishDate: '2025-05-07T04:22:06.786276Z'
 publication_types:
 - preprint
