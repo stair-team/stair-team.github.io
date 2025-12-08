@@ -11,8 +11,8 @@ authors:
   - Lizhe Chen
   - Xueqi Cheng
 
-date: '2024-10-16T19:00:00Z'
-doi: '10.48550/arXiv.2402.07140'
+date: '2025-07-01T00:00:00Z'
+doi: '10.18653/v1/2025.acl-long.321'
 
 publication_types:
 - paper-conference
@@ -23,12 +23,14 @@ abstract: "Large language models (LLMs) have achieved significant success in rea
 featured: false
 
 links:
+ - name: ACL Anthology
+   url: https://aclanthology.org/2025.acl-long.321/
  - name: arXiv
    url: https://arxiv.org/abs/2402.07140
  - name: Website
    url: https://geyuyao.com/GraphDO/
 
-url_pdf: 'https://arxiv.org/pdf/2402.07140.pdf'
+url_pdf: 'https://aclanthology.org/2025.acl-long.321.pdf'
 url_code: 'https://github.com/YuyaoGe/GraphDO'
 url_dataset: ''
 url_poster: ''
