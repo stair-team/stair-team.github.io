@@ -1,52 +1,42 @@
 ---
+# Display name
 title: Yatao Zhu
+
+# Full Name
 first_name: Yatao
 last_name: Zhu
-role: Master
-# interests:
-#   - Trustworthy LLM technologies
-#   - Big Graph Mining
-#   - Scalings for AI
+
+# Role/position 
+role: Senior Engineer
+
+# Organizations/Affiliations
+organizations:
+  - name: Beijing Zhongke SmarCo Technology Co., Ltd
+    url: 'http://www.smart-core.cn/'
+
+# Short bio (displayed in user profile at end of posts)
+bio: His current research focuses on intelligent video storage and intelligent computing center.
+
+interests:
+  - Intelligent video storage
+  - High throughput computing
 
 education:
   courses:
-    - course: Ph.D.
-      year: now
-    - course: Master
-      institution: Institute of Computing Technology, Chinese Academic of Sciences
-# social:
-#   - icon: home
-#     icon_pack: fas
-#     link: https://shenghua-liu.github.io
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:liushenghua AT ict DOT ac DOT cn'
-#   #- icon: twitter
-#     #icon_pack: fab
-#     #link: https://twitter.com/GeorgeCushen
-#   - icon: google-scholar
-#     icon_pack: ai
-#     link: https://scholar.google.com/citations?user=W8I9dyEAAAAJ&hl=en 
-#   - icon: github
-#     icon_pack: fab
-#     link: https://github.com/shenghua-liu
-#   - icon: orcid 
-#     icon_pack: fab
-#     link: https://orcid.org/0000-0003-2120-3598 
-# # Link to a PDF of your resume/CV from the About widget.
-# # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# # - icon: cv
-# #   icon_pack: ai
-# #   link: files/cv.pdf
 
-# # Enter email to display Gravatar (if Gravatar enabled in Config)
-# email: 'liushenghua at ict.ac.cn'
 
-# Highlight the author in author lists? (true/false)
-highlight_name: false
+- course:Postdoc in Software Engineering
+      institution:Institute of Computing Technology
+      year:2017-2019
+    - course:PhD in Computer Architecture
+      institution:Institute of Computing Technology
+      year:2013-2017
+ - course:Master in Computer Science and Technology
+      institution:Institute of Computing Technology
+      year:2010-2013
 
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Alumni
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: （zhuyatao@smart-core.cn）
 ---
+
