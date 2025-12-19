@@ -23,17 +23,15 @@ interests:
 
 education:
   courses:
-
-
-- course:Postdoc in Software Engineering
-      institution:Institute of Computing Technology
-      year:2017-2019
-    - course:PhD in Computer Architecture
-      institution:Institute of Computing Technology
-      year:2013-2017
- - course:Master in Computer Science and Technology
-      institution:Institute of Computing Technology
-      year:2010-2013
+    - course: Postdoc in Software Engineering
+      institution: Institute of Computing Technology
+      year: 2017-2019
+    - course: PhD in Computer Architecture
+      institution: Institute of Computing Technology
+      year: 2013-2017
+    - course: Master in Computer Science and Technology
+      institution: Institute of Computing Technology
+      year: 2010-2013
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
