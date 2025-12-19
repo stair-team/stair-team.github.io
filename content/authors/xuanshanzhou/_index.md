@@ -1,5 +1,5 @@
 ---
-title: Xuanshan Zhou 周宣杉
+title: Xuanshan Zhou
 first_name: 宣杉
 last_name: 周
 authors:

@@ -1,5 +1,5 @@
 ---
-title: Jiayu Yao 姚佳雨
+title: Jiayu Yao
 first_name: 佳雨
 last_name: 姚
 authors:

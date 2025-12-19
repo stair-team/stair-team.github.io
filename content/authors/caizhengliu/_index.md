@@ -23,17 +23,15 @@ interests:
 
 education:
   courses:
-
-
-- course:Postdoc in Information and Communication Engineering
-      institution:Zhengzhou University
-      year:2023-now
-- course:PhD in Computer Architecture
-      institution:Institute of Computing Technology, Chinese Academy of Sciences
-      year:2017-2023
- - course:Master in Computer software and theory
-      institution:Institute of Software Chinese Academy of Sciences
-      year:2014-2017
+    - course: Postdoc in Information and Communication Engineering
+      institution: Zhengzhou University
+      year: 2023-now
+    - course: PhD in Computer Architecture
+      institution: Institute of Computing Technology, Chinese Academy of Sciences
+      year: 2017-2023
+    - course: Master in Computer software and theory
+      institution: Institute of Software Chinese Academy of Sciences
+      year: 2014-2017
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
