@@ -36,5 +36,12 @@ education:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: （zhuyatao@smart-core.cn）
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+user_groups:
+  - Alumni
 ---
 
