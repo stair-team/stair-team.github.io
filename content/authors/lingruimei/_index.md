@@ -5,6 +5,8 @@ last_name: 梅
 authors:
   - LingruiMei
 role: Ph.D Candidate
+student_type: phd
+ict_start_year: 2022
 status:
   icon: 🔬
 interests:

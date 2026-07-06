@@ -5,6 +5,8 @@ last_name: 刘
 authors:
   - PengshengLiu
 role: Master Candidate
+student_type: ms
+ict_start_year: 2025
 status:
   icon: 🔬
 interests:

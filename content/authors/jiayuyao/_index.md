@@ -5,6 +5,8 @@ last_name: 姚
 authors:
   - JiayuYao
 role: Master Candidate
+student_type: ms
+ict_start_year: 2025
 status:
   icon: 🔬
 interests:
@@ -28,4 +30,3 @@ Hi👋, I am a master candidate at [Institute of Computing Technology(ICT)](http
 ***
 
 {style="text-align: justify;"}
-

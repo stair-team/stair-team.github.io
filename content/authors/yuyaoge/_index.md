@@ -5,6 +5,8 @@ last_name: Ge
 authors:
   - Yuyao Ge
 role: Ph.D Candidate
+student_type: phd
+ict_start_year: 2024
 status:
   icon: 🔬
 interests:

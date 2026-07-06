@@ -5,6 +5,8 @@ last_name: 毕
 authors:
   - BaolongBi
 role: Ph.D Candidate
+student_type: phd
+ict_start_year: 2023
 status:
   icon: 🔬
 interests:

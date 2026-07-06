@@ -5,6 +5,8 @@ last_name: 吕
 authors:
   - ShanshanLyu
 role: Master Candidate
+student_type: ms
+ict_start_year: 2026
 status:
   icon: 🔬
 interests:

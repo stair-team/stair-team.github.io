@@ -5,6 +5,8 @@ last_name: 尹
 authors:
   - ZilingYin
 role: Ph.D. Candidate
+student_type: phd
+ict_start_year: 2026
 status:
   icon: 🔬
 interests:
