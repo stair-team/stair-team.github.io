@@ -12,7 +12,7 @@ status:
 interests:
 - Multimodal Large Language Models
 - Long-Horizon AI Agents
-- Reinforcement Learning
+- RL
 social:
 - icon: home
   icon_pack: fas
