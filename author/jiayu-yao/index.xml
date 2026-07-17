@@ -1,3 +1,75 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jiayu Yao | STAIR Research Group | Scalable &amp; Trustworthy AI Research</title><link>stair.team/author/jiayu-yao/</link><atom:link href="stair.team/author/jiayu-yao/index.xml" rel="self" type="application/rss+xml"/><description>Jiayu Yao</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>stair.team/author/jiayu-yao/avatar_hub6e1841c5c865f96fcd9cc5cb79873e4_604022_270x270_fill_q99_lanczos_center.jpg</url><title>Jiayu Yao</title><link>stair.team/author/jiayu-yao/</link></image><item><title>Jiayu Yao</title><link>stair.team/author/jiayu-yao/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>stair.team/author/jiayu-yao/</guid><description>&lt;p>Hi 👋, I am a master&amp;rsquo;s student in Computer Science at the &lt;a href="http://www.ict.ac.cn/" target="_blank" rel="noopener">Institute of Computing Technology (ICT)&lt;/a>, &lt;a href="http://www.cas.ac.cn/" target="_blank" rel="noopener">Chinese Academy of Sciences (CAS)&lt;/a>, advised by &lt;a href="https://shenghua-liu.github.io/" target="_blank" rel="noopener">Prof. Shenghua Liu&lt;/a> and &lt;a href="https://wangywust.github.io/" target="_blank" rel="noopener">Yiwei Wang&lt;/a>. I am a member of the CAS Key Laboratory of AI Security.&lt;/p>
 &lt;p>My research interests lie in multimodal large language models, long-horizon AI agents, and reinforcement learning. In particular, I am interested in improving agents&amp;rsquo; capabilities in complex, long-horizon tasks through reinforcement learning, as well as enhancing the reliability and alignment of multimodal models.&lt;/p>
-&lt;hr></description></item></channel></rss>
+&lt;hr></description></item></channel></rss>e>A Survey of Vibe Coding with Large Language Models</title><link>stair.team/publication/arxiv-2025-surveyvibecoding/</link><pubDate>Thu, 16 Oct 2025 00:00:00 +0000</pubDate><guid>stair.team/publication/arxiv-2025-surveyvibecoding/</guid><description/></item><item><title>Not in Sync: Unveiling Temporal Bias in Audio Chat Models</title><link>stair.team/publication/arxiv-2025-notinsyncunveilingtemporalbiasinaudiochatmodels/</link><pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate><guid>stair.team/publication/arxiv-2025-notinsyncunveilingtemporalbiasinaudiochatmodels/</guid><description/></item><item><title>A Survey of Context Engineering for Large Language Models</title><link>stair.team/publication/arxiv-2025-surveycontextengineeringlarge/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><guid>stair.team/publication/arxiv-2025-surveycontextengineeringlarge/</guid><description/></item><item><title>Context Engineering for Large Language Models: A Comprehensive Survey</title><link>stair.team/projects/contextengineering/</link><pubDate>Thu, 17 Jul 2025 00:00:00 +0000</pubDate><guid>stair.team/projects/contextengineering/</guid><description>&lt;h2 id="research-background">Research Background&lt;/h2>
+&lt;p>The performance of Large Language Models (LLMs) is fundamentally determined by the quality of contextual information provided during inference. This comprehensive survey introduces &lt;strong>Context Engineering&lt;/strong> as a formal discipline that transcends simple prompt design to encompass systematic optimization of information payloads for LLMs.&lt;/p>
+&lt;h2 id="core-contributions">Core Contributions&lt;/h2>
+&lt;h3 id="-theoretical-framework">🏗️ Theoretical Framework&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Comprehensive Taxonomy&lt;/strong>: Decomposes context engineering into foundational components and sophisticated system implementations&lt;/li>
+&lt;li>&lt;strong>Technical Roadmap&lt;/strong>: Establishes clear development pathways for the field&lt;/li>
+&lt;li>&lt;strong>Unified Framework&lt;/strong>: Provides a cohesive theoretical foundation for researchers and engineers advancing context-aware AI&lt;/li>
+&lt;/ul>
+&lt;h3 id="-large-scale-literature-analysis">📊 Large-Scale Literature Analysis&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>1300+ Research Papers&lt;/strong> systematically analyzed&lt;/li>
+&lt;li>&lt;strong>1401 Citations&lt;/strong> comprehensively organized&lt;/li>
+&lt;li>&lt;strong>165 Pages&lt;/strong> of detailed technical survey&lt;/li>
+&lt;/ul>
+&lt;h3 id="-key-findings">🔍 Key Findings&lt;/h3>
+&lt;p>Reveals a fundamental asymmetry in model capabilities:&lt;/p>
+&lt;ul>
+&lt;li>✅ &lt;strong>Strong Understanding&lt;/strong>: Current models excel at comprehending complex contexts&lt;/li>
+&lt;li>❌ &lt;strong>Limited Generation&lt;/strong>: Pronounced limitations in generating equally sophisticated long-form outputs&lt;/li>
+&lt;/ul>
+&lt;h2 id="technical-architecture">Technical Architecture&lt;/h2>
+&lt;h3 id="foundational-components">Foundational Components&lt;/h3>
+&lt;ol>
+&lt;li>&lt;strong>Context Retrieval &amp;amp; Generation&lt;/strong>: Methods for acquiring and creating relevant contextual information&lt;/li>
+&lt;li>&lt;strong>Context Processing&lt;/strong>: Techniques for analyzing, filtering, and structuring contextual data&lt;/li>
+&lt;li>&lt;strong>Context Management&lt;/strong>: Strategies for organizing, storing, and maintaining context across interactions&lt;/li>
+&lt;/ol>
+&lt;h3 id="system-implementations">System Implementations&lt;/h3>
+&lt;ol>
+&lt;li>&lt;strong>Retrieval-Augmented Generation (RAG)&lt;/strong>: Integrating external knowledge retrieval with generation&lt;/li>
+&lt;li>&lt;strong>Memory Systems &amp;amp; Tool-Integrated Reasoning&lt;/strong>: Persistent context storage and tool utilization&lt;/li>
+&lt;li>&lt;strong>Multi-Agent Systems&lt;/strong>: Collaborative context sharing and distributed reasoning&lt;/li>
+&lt;/ol>
+&lt;h2 id="research-impact">Research Impact&lt;/h2>
+&lt;h3 id="-theoretical-significance">🎯 Theoretical Significance&lt;/h3>
+&lt;ul>
+&lt;li>First systematic definition of Context Engineering as a formal discipline&lt;/li>
+&lt;li>Comprehensive technical taxonomy establishment&lt;/li>
+&lt;li>Identification of critical bottlenecks in LLM capability development&lt;/li>
+&lt;/ul>
+&lt;h3 id="-practical-applications">🚀 Practical Applications&lt;/h3>
+&lt;ul>
+&lt;li>Guidelines for AI system design and implementation&lt;/li>
+&lt;li>Advancement of RAG, multi-agent, and memory-augmented technologies&lt;/li>
+&lt;li>Promotion of context-aware AI in production environments&lt;/li>
+&lt;/ul>
+&lt;h3 id="-future-directions">🔮 Future Directions&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Long-Form Generation&lt;/strong>: Addressing limitations in generating sophisticated extended outputs&lt;/li>
+&lt;li>&lt;strong>Context Optimization&lt;/strong>: Enhancing information payload quality and efficiency&lt;/li>
+&lt;li>&lt;strong>System Integration&lt;/strong>: Advancing complex AI system architecture and implementation&lt;/li>
+&lt;/ul>
+&lt;h2 id="recognition--impact">Recognition &amp;amp; Impact&lt;/h2>
+&lt;p>📈 &lt;strong>Academic Recognition&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>#1 Paper of the day&lt;/strong> on Hugging Face Papers&lt;/li>
+&lt;li>64+ upvotes with sustained community engagement&lt;/li>
+&lt;li>Featured in multiple research collections&lt;/li>
+&lt;/ul>
+&lt;p>🌟 &lt;strong>Industry Value&lt;/strong>:
+Provides systematic engineering methodologies for LLM applications, offering crucial guidance for enterprise-level AI system development and production deployment.&lt;/p>
+&lt;p>🔗 &lt;strong>Community Engagement&lt;/strong>:&lt;/p>
+&lt;ul>
+&lt;li>Ongoing collaboration with 165 pages of comprehensive content&lt;/li>
+&lt;li>Open research initiative with 1401 citations&lt;/li>
+&lt;li>Active GitHub repository for reproducible research&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;blockquote>
+&lt;p>&lt;em>&amp;ldquo;Context Engineering represents more than a technical challenge—it embodies the core methodology for AI system design. This survey establishes a fundamental foundation for building next-generation intelligent systems.&amp;rdquo;&lt;/em>&lt;/p>
+&lt;p>— STAIR Research Group&lt;/p>
+&lt;/blockquote></description></item><item><title>Who is in the Spotlight: The Hidden Bias Undermining Multimodal Retrieval-Augmented Generation</title><link>stair.team/publication/emnlp-2025-whoisinthespotlightthehiddenbiasunderminingmultimodalretrievalaugmentedgeneration/</link><pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate><guid>stair.team/publication/emnlp-2025-whoisinthespotlightthehiddenbiasunderminingmultimodalretrievalaugmentedgeneration/</guid><description/></item></channel></rss>
