@@ -19,7 +19,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: 'STAIR Research Group'
-    description: 'STAIR Research Group at ICT, CAS focuses on Scalable and Trustworthy AI Research, including large-scale graph mining, trustworthy foundation models, and scalable algorithms for real-world AI applications.'
+    description: 'STAIR Research Group at ICT, CAS: scalable and trustworthy AI on foundation models and agents, high-quality graph data, and agentic reasoning.'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
